@@ -1,7 +1,7 @@
 # 3 Contoh Metode MPPL :
 
 ## 1. Waterfal
-	Waterfal merupakan metode perangkat lunak yang sistematis. Waterfal memiliki lima tahapan, yaitu :
+Waterfal merupakan metode perangkat lunak yang sistematis. Waterfal memiliki lima tahapan, yaitu :
 	
 ### - Requirement Analysis
 Merupakan fase pengembang untuk mengetahui dan memahami informasi kebutuhan pengguna terhadap perangkat lunak yang akan dikembangkan. Informasi yang diperoleh kemudian diolah dan dianalisa sehingga didapatkan data atau informasi yang lengkap mengenai spesifikasi kebutuhan pengguna akan perangkat lunak yang akan dikembangkan. Metode pengumpulan informasi dapat dilakukan dengan cara diskusi, observasi, survei, wawancara, dll.
