@@ -2,7 +2,9 @@
 
 ## 1. Waterfal
 Waterfal merupakan metode perangkat lunak yang sistematis. Waterfal memiliki lima tahapan, yaitu :
-	
+
+![01](image-mppl/01-waterfall.jpg)
+
 ### - Requirement Analysis
 Merupakan fase pengembang untuk mengetahui dan memahami informasi kebutuhan pengguna terhadap perangkat lunak yang akan dikembangkan. Informasi yang diperoleh kemudian diolah dan dianalisa sehingga didapatkan data atau informasi yang lengkap mengenai spesifikasi kebutuhan pengguna akan perangkat lunak yang akan dikembangkan. Metode pengumpulan informasi dapat dilakukan dengan cara diskusi, observasi, survei, wawancara, dll.
 
@@ -20,6 +22,8 @@ Perangkat lunak yang sudah jadi dioperasikan pengguna dan dilakukan pemeliharaan
 
 ## 2. Prototyping
 Prototyping merupakan metode yang didasarkan pada konsep model kerja. tujuannya untuk mempercepat pengembangan dan membuat biaya lebih sedikit yang dikeluarkan. Fase-fase metode prototyping sbb :
+
+![02](image-mppl/02-prototyping.png)
 
 ### - Analisa Kebutuhan
 Pengembang menganalisa kebutuhan sistem yang akan dibuat.
@@ -44,6 +48,8 @@ Apabila Perangkat lunak sudah lolos uji dan disetujui pelanggan maka Sistem siap
 
 ## 3. Metode Extreme Programming
 Extreme Programming adalah suatu model yang termasuk dalam pendekatan agile yang diperkenalkan oleh Kent Back. Extreme Programming (XP) adalah metode pengembangan software yang cepat, efisien, beresiko rendah, fleksibel, terprediksi, scientific, dan menyenangkan. Tahapan-tahapan Extreme Programming adalah sbb :
+
+![03](image-mppl/03-XP.png)
 
 ### - Planning (Perencanaan)
 Tahapan ini merupakan langkah awal dalam pembangunan sistem dimana dalam tahapan ini dilakukan beberapa kegiatan perencanaan yaitu, identifikasi permasalahan, menganalisa kebutuhan sampai dengan penetapan jadwal pelaksanaan pembangunan sistem.
